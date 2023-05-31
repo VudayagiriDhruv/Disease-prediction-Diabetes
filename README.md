@@ -1,1 +1,1 @@
-# Disease-prediction-Diabetes-
+# Disease-prediction: Diabetes
